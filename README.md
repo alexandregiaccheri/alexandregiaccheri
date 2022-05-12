@@ -16,7 +16,7 @@ using System.Info;
 &nbsp;&nbsp;&nbsp;&nbsp;this.Title += "&nbsp;Desenvolvedor Full-Stack" <br>
 }</h4>  
 
-<h4>xande.AddDescription(&nbsp;) {</h4>
+<h4>xande.AddDescription(string description) {</h4>
 <p align=center>Bem vindo(a)! Pode me chamar de Xande 🙂 <br> Sou um desenvolvedor curioso, detalhista e determinado, <br> sempre buscando aprender e se aperfeiçoar!</p>
 
 <hr>
@@ -32,8 +32,10 @@ using System.Info;
 </td>
 <td width=50%>
 
-<h4>TechStack(Developer xande) {</h4>
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;switch (xande.GetSkill(&nbsp;)) {</h4>
+<h4>
+TechStack(Developer xande) {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;switch (xande.GetSkill(&nbsp;)) {
+</h4>
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case "BackEnd":</h4>
 <div>
 
@@ -98,8 +100,10 @@ using System.Info;
 
 </div>
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;}</h4>
-<h4>}</h4>
+<h4>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+}
+</h4>
 
 </td>    
     
