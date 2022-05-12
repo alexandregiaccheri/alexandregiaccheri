@@ -2,10 +2,21 @@
 <tr>
     
 <td width=50%>
-    
-<h3 align=center> Alexandre Giaccheri </h3>
-<h4 align=center> Analista de Sistemas & Desenvolvedor Full-Stack</h4>  
 
+<h4>
+using Git.Repo; <br>
+using Github.Developer;<br>
+using Github.Readme;<br>
+using System.Info; 
+</h4>
+
+<h4>var xande = new Developer(&nbsp;) {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;this.Name = "Alexandre Giaccheri",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;this.Title = "Analista de Sistemas e ",<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;this.Title += "&nbsp;Desenvolvedor Full-Stack" <br>
+}</h4>  
+
+<h4>xande.AddDescription(&nbsp;) {</h4>
 <p align=center>Bem vindo(a)! Pode me chamar de Xande 🙂 <br> Sou um desenvolvedor curioso, detalhista e determinado, <br> sempre buscando aprender e se aperfeiçoar!</p>
 
 <hr>
@@ -14,14 +25,15 @@
     
 <h4 align=center>Mais sobre mim:</h4>
 <p align=center>Além de desenvolver software, sou músico (pratico guitarra e violino como hobby), amo games com boas histórias e/ou desafios, sou pai de gatos e também gosto muito de psicologia.</p>
-<p></p>
+<h4>}</h4>
 
+<h5>// Ultima vez atualizado em: 11/05/2022</h5>
 
 </td>
 <td width=50%>
 
-<h4>TechStack(dev xande) {</h4>
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;switch (xande.GetSkill()) {</h4>
+<h4>TechStack(Developer xande) {</h4>
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;switch (xande.GetSkill(&nbsp;)) {</h4>
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case "BackEnd":</h4>
 <div>
 
