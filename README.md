@@ -13,7 +13,7 @@
 <p align=center><img src="https://www.pinclipart.com/picdir/big/531-5318605_transparent-web-developer-gif-clipart.png" width="80%"></p>    
     
 <h4 align=center>Mais sobre mim:</h4>
-<p align=center>Desenvolvedor .NET (C#) entusiasta de padrões de design e arquitetura de software, sempre almejando atingir fluência em clean code e clean architecture. Procuro trabalho como desenvolvedor júnior para consumar meu início de carreira e vivênciar desenvolvimento de software em equipes profissionais.</p>
+<p align=center>Desenvolvedor .NET entusiasta de padrões de design e arquitetura de software, sempre almejando atingir fluência em clean code e clean architecture. Procuro trabalho como desenvolvedor júnior para consumar meu início de carreira e vivênciar desenvolvimento de software em equipes profissionais.</p>
 <p></p>
 
 
